@@ -1,0 +1,1 @@
+{"name":"sandline-freight-demo","version":"1.0.0","private":true,"author":"Ahmed Allam","description":"Synthetic Saudi freight operations portfolio demonstration","scripts":{"check":"node tools/check.cjs"},"engines":{"node":">=22"}}
